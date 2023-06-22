@@ -10,4 +10,5 @@ The encryption algorithm used is a Caesar cipher, where each letter in the plain
 
 # Screenshots
 
-![GUI_pic]([http://full/path/to/img.jpg "Optional title"](https://drive.google.com/drive/folders/1RFC1TuK0doVH-WLKWIXjGCg5jd3ll5dX)https://drive.google.com/drive/folders/1RFC1TuK0doVH-WLKWIXjGCg5jd3ll5dX)
+![image](https://github.com/seagle011/simple-encryption-decryption/assets/106632972/ceb3d67d-bb44-4deb-ac69-be3f3dfa01f8)
+![image](https://github.com/seagle011/simple-encryption-decryption/assets/106632972/f263157d-6d71-4c3d-a102-2c5e96172db3)
